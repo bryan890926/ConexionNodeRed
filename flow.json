@@ -65,5 +65,19 @@
                 "86c937d9fe293b2f"
             ]
         ]
+    },
+    {
+        "id": "34c8bea2602d5e95",
+        "type": "status",
+        "z": "0d21d80da1bcf775",
+        "name": "",
+        "scope": null,
+        "x": 820,
+        "y": 260,
+        "wires": [
+            [
+                "86c937d9fe293b2f"
+            ]
+        ]
     }
 ]
